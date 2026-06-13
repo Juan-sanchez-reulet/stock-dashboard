@@ -1,4 +1,3 @@
-import pytest
 from data import get_stock_data
 
 def test_devuelve_lista():
